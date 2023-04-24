@@ -12,8 +12,7 @@ Black Raven V1.3 - It's a IoT/Web Pentesting Framework to exploit Vulnerabilitys
 - Network Hijacking
 - Cross platform
 - Scada support
-- Backdoors
-- reverse Shell
+- ICS/IoT Privilege Escalation
 
 
 ## Badges
